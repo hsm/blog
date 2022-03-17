@@ -1,1 +1,1 @@
-Sitemap: https://hsm.github.io/blog/sitemap.xml
+Sitemap: https://blog.util.dk/sitemap.xml
